@@ -1,0 +1,23 @@
+{
+  "name": "vectorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter Delbeke",
+  "license": "MIT",
+  "dependencies": {
+    "path-intersection": "^2.2.1",
+    "point-in-svg-polygon": "^1.0.25",
+    "potrace": "^2.1.8",
+    "rgb-to-hex": "^0.0.0",
+    "sharp": "^0.32.0",
+    "simple-xml-merge": "^0.1.5",
+    "skmeans": "^0.11.3",
+    "svg-path-bbox": "^1.2.4",
+    "xml-js": "^1.6.11",
+    "yargs": "^17.7.2"
+  }
+}
