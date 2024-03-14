@@ -1,6 +1,8 @@
 node_modules
+output
 .DS_Store
 .vs
 *.webp
 *.png
 *.jpg
+*.svg
